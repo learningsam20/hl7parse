@@ -1,0 +1,4 @@
+# Read Me
+## HL7 Message Processing
+This repository consists of formatting of HL7 messages and displaying it as an output in the files/console
+The output could be captured in the text file by running ""
