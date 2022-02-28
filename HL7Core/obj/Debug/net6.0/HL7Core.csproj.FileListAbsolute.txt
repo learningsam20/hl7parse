@@ -1,0 +1,34 @@
+C:\Users\samee\source\repos\HILApp\HL7Core\bin\Debug\net6.0\HL7Core.exe
+C:\Users\samee\source\repos\HILApp\HL7Core\bin\Debug\net6.0\HL7Core.deps.json
+C:\Users\samee\source\repos\HILApp\HL7Core\bin\Debug\net6.0\HL7Core.runtimeconfig.json
+C:\Users\samee\source\repos\HILApp\HL7Core\bin\Debug\net6.0\HL7Core.dll
+C:\Users\samee\source\repos\HILApp\HL7Core\bin\Debug\net6.0\HL7Core.pdb
+C:\Users\samee\source\repos\HILApp\HL7Core\bin\Debug\net6.0\HL7-dotnetcore.dll
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.csproj.AssemblyReference.cache
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.AssemblyInfoInputs.cache
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.AssemblyInfo.cs
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.csproj.CoreCompileInputs.cache
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.csproj.CopyComplete
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.dll
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\refint\HL7Core.dll
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.pdb
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\HL7Core.genruntimeconfig.cache
+C:\Users\samee\source\repos\HILApp\HL7Core\obj\Debug\net6.0\ref\HL7Core.dll
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\bin\Debug\net6.0\HL7Core.exe
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\bin\Debug\net6.0\HL7Core.deps.json
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\bin\Debug\net6.0\HL7Core.runtimeconfig.json
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\bin\Debug\net6.0\HL7Core.dll
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\bin\Debug\net6.0\HL7Core.pdb
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\bin\Debug\net6.0\HL7-dotnetcore.dll
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.csproj.AssemblyReference.cache
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.AssemblyInfoInputs.cache
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.AssemblyInfo.cs
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.csproj.CoreCompileInputs.cache
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.csproj.CopyComplete
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.dll
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\refint\HL7Core.dll
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.pdb
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\HL7Core.genruntimeconfig.cache
+E:\GT\Healthcare Informatics\Assignments\lab6\src\HL7Core\obj\Debug\net6.0\ref\HL7Core.dll

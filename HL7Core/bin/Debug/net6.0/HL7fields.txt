@@ -1,0 +1,85 @@
+Start of processing
+************************************************************
+message version: 2.3 
+message structure: ORU_R01
+number of segments: 5
+************************************************************
+segment name: MSH has 12 fields.
+field 01 -> label: Field Separator, value: |
+field 02 -> label: Encoding Characters, value: ^~\&
+field 03 -> label: Sending Application, value: QUANTERIX
+field 04 -> label: Sending Facility, value: SIMOA1
+field 05 -> label: Receiving Application, value: 
+field 06 -> label: Receiving Facility, value: 
+field 07 -> label: Date / Time of Message, value: 20210909042127
+field 08 -> label: Security, value: 
+field 09 -> label: Message Type, value: ORU^R01
+field 10 -> label: Message Control ID, value: 53256
+field 11 -> label: Processing ID, value: P
+field 12 -> label: Version ID, value: 2.3 
+************************************************************
+segment name: PID has 8 fields.
+field 01 -> label: Set ID - Patient ID, value: 1
+field 02 -> label: Patient ID (External ID), value: 
+field 03 -> label: Patient ID (Internal ID), value: 123456^^^GATECH
+field 04 -> label: Alternate Patient ID, value: 
+field 05 -> label: Patient Name, value: TEST^PATIENT
+field 06 -> label: Mother's Maiden Name, value: 
+field 07 -> label: Date of Birth, value: 19951220
+field 08 -> label: Sex, value: F 
+************************************************************
+segment name: ORC has 9 fields.
+field 01 -> label: Order Control, value: RE
+field 02 -> label: Placer Order Number, value: 
+field 03 -> label: Filler Order Number, value: 003109701234A
+field 04 -> label: Placer Group Number, value: 
+field 05 -> label: Order Status, value: CM
+field 06 -> label: Response Flag, value: 
+field 07 -> label: Quantity/Timing, value: 
+field 08 -> label: Parent Order, value: 
+field 09 -> label: Date/Time of Transaction, value: 20210909052539 
+************************************************************
+segment name: OBR has 27 fields.
+field 01 -> label: Set ID - Observation Request, value: 1
+field 02 -> label: Placer Order Number, value: 
+field 03 -> label: Filler Order Number, value: 003109701234A$1$202109081033$COVID19
+field 04 -> label: Universal Service Identifier, value: COVID19
+field 05 -> label: Priority, value: 
+field 06 -> label: Requested Date/Time, value: 
+field 07 -> label: Observation Date/Time, value: 
+field 08 -> label: Observation End Date/Time, value: 
+field 09 -> label: Collection Volume, value: 
+field 10 -> label: Collector Identifier, value: 
+field 11 -> label: Specimen Action Code, value: 
+field 12 -> label: Danger Code, value: 
+field 13 -> label: Relevant Clinical Information, value: 
+field 14 -> label: Specimen Received Date/Time, value: 
+field 15 -> label: Specimen Source, value: 
+field 16 -> label: Ordering Provider, value: 
+field 17 -> label: Order Callback Phone Number, value: 
+field 18 -> label: Placer Field 1, value: ^SIMOA1
+field 19 -> label: Placer Field 2, value: 
+field 20 -> label: Filler Field 1, value: 
+field 21 -> label: Filler Field 2, value: 
+field 22 -> label: Results Rpt/Status Chng - Date/Time, value: 202109091631175682507
+field 23 -> label: Charge To Practice, value: 
+field 24 -> label: Diagnostic Service Section ID, value: 
+field 25 -> label: Result Status, value: F
+field 26 -> label: Parent Result, value: 
+field 27 -> label: Quantity/Timing, value: ^^^^^Routine 
+************************************************************
+segment name: OBX has 11 fields.
+field 01 -> label: Set ID - OBX, value: 1
+field 02 -> label: Value Type, value: 
+field 03 -> label: Observation Identifier, value: DRE
+field 04 -> label: Observation Sub-ID, value: 
+field 05 -> label: Observation Value, value: COVID19POSITIVE
+field 06 -> label: Units, value: 
+field 07 -> label: References Range, value: 
+field 08 -> label: Abnormal Flags, value: 
+field 09 -> label: Probability, value: 
+field 10 -> label: Nature of Abnormal Test, value: 
+field 11 -> label: Observ Result Status, value: F
+************************************************************
+completed processing of hl7. wrote 15 messages.
+End of processing
